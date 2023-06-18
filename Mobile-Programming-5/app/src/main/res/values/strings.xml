@@ -1,0 +1,53 @@
+<!--
+  ~ Copyright (c) 2021 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Sports</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">Sports</string>
+    <string name="news_fragment_label">Sports News</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="news_title">Breaking News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="sports_news_detail_text">
+        Bagian ini di isi oleh penulis berita </string>
+    />
+
+    <string name="baseball">Baseball</string>
+    <string name="badminton">Bulu Tangkis</string>
+    <string name="basketball">Bola Basket</string>
+    <string name="bowling">Bowling</string>
+    <string name="cycling">Sepeda</string>
+    <string name="golf">Golf</string>
+    <string name="running">Lari</string>
+    <string name="soccer">Sepak Bola</string>
+    <string name="swimming">Renang</string>
+    <string name="table_tennis">Tenis Meja</string>
+    <string name="tennis">Tennis</string>
+
+    <string name="baseball_subtitle">Berita terbaru Cabor Baseball</string>
+    <string name="badminton_subtitle">Berita terbaru Cabor Bulu Tangkis</string>
+    <string name="basketball_subtitle">Berita terbaru Cabor Bola Basket</string>
+    <string name="bowling_subtitle">Berita terbaru Cabor Bowling</string>
+    <string name="cycling_subtitle">Berita terbaru Cabor Sepeda</string>
+    <string name="golf_subtitle">Berita terbaru Cabor Golf</string>
+    <string name="running_subtitle">Berita terbaru Cabor Lari</string>
+    <string name="soccer_subtitle">Berita terbaru Cabor Sepak Bola</string>
+    <string name="swimming_subtitle">Berita terbaru Cabor Renang</string>
+    <string name="table_tennis_subtitle">Berita terbaru Cabor Tenis Meja</string>
+    <string name="tennis_subtitle">Berita terbaru Cabor Tennis</string>
+</resources>

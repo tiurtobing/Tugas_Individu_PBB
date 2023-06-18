@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tutorial Kotlin </string>
+    <string name="hello_blank_fragment">Berikut adalah materi yang akan dipelajari</string>
+    <string name="tablayout">tabLayout</string>
+</resources>
